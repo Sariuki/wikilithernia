@@ -449,6 +449,3 @@
 * [[The Ironclad Covenant\|The Ironclad Covenant]]: A dwarven faction dedicated to expanding their kingdom's borders and claiming the riches of the mountains. They are known for their unwavering strength and their skill in warfare. 
 * [[The Circle of the Unseen\|The Circle of the Unseen]]: A group of Eladrin seers who believe that the stars hold the key to Lithernia's future. They seek to guide the world towards a path of harmony and balance, using their knowledge of fate to avert disaster.
 * [[The Guardians of the Eternal Flame\|The Guardians of the Eternal Flame]]: A order of elven warriors dedicated to protecting the sacred forests of Eldrador from those who would seek to destroy them. They are skilled in nature magic and guerrilla warfare, fighting fiercely to preserve the balance of nature. 
-
-This hub is ready to become the central nervous system for your ever-expanding world! What will you create next? 🗺️
-```
