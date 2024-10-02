@@ -41,7 +41,7 @@ Kromagul, the God of Pain, is a being of pure sadism and cruelty within the [[Li
 
 * **[[Lithernia/Pantheons/Mor'dhul/Korogrim Pantheon\|Korogrim Pantheon]]**:  His presence within the pantheon is unsettling, even to his own siblings. [[Lithernia/Pantheons/Mor'dhul/Sel'thirak\|Sel'thirak]] tolerates him as a necessary evil, while [[Lithernia/Pantheons/Mor'dhul/Lakros\|Lakros]] respects his mastery of pain as a weapon.
 * **[[Lithernia/Races/Hobgoblins\|Hobgoblins]]**: [[Lithernia/Races/Hobgoblins\|Hobgoblins]] both revere and fear him. They emulate his cruelty and embrace torture as a means of control.
-* **[[Lithernia/organizations/The Crimson Hand\|The Crimson Hand]]**:  This Tiefling assassin organization is rumored to have a connection to Kromagul, using his teachings to inflict pain and terror.
+* **[[Lithernia/organizations/Crimson Hand\|Crimson Hand]]**:  This Tiefling assassin organization is rumored to have a connection to Kromagul, using his teachings to inflict pain and terror.
 
 ## Goals
 
